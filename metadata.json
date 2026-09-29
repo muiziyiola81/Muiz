@@ -1,0 +1,6 @@
+{
+  "name": "GPT Hub",
+  "description": "A premium AI assistant and conversation platform featuring streaming responses, multimodal image and file intelligence, grounded web search, projects, and voice capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
